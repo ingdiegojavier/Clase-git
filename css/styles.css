@@ -1,0 +1,113 @@
+/* Header */
+h1 {
+   color:aliceblue;
+   text-align: center;
+   padding-top: 50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+div.fondo {
+    background-image: url('../img/bolas.jpg');
+    background-repeat: repeat-x;
+    background-size: contain;
+    width: 1440px;
+    height: 150px;
+}
+/* Menu */
+nav {
+    margin-top: 50px;
+    text-align: center;
+    background-color:#005677 ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a {
+    padding-left: 30px;
+    padding-right: 10px;
+    color:white;
+    text-decoration: none;
+    font-size: 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#foto {
+    margin-top: 15px;
+    margin-left: 570px;
+}
+/* Section*/
+h2 {
+    padding-left: 12.45px;
+    padding-top: 5px;
+    width: 395.62px;
+    height: 17px;
+    color:#005677;
+    font-size: 20px;
+    background-color: #C4C4C4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h3{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 20px;
+    background-color: #c4c4c4;
+    color:#005677;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.description {
+    text-align: center;
+}
+ul {
+    margin-top: 18px;
+    margin-left: 24px;
+}
+p {
+    padding-top: 8px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    font-style: italic;
+    line-height: 12.7px;
+}   
+
+#Personales{
+    width: 1440px;
+    height: 30px;
+    margin-top: 79px;
+    background-color: #c4c4c4;
+}
+#Formacion{
+    margin-top: 142px;
+    width: 1440px;
+    height: 30px;
+    background-color: #c4c4c4;
+}
+dd {
+    margin-left: 92px;
+}
+#laboral {
+    margin-top: 155px;
+    width: 1440px;
+    height: 30px;
+    background-color: #c4c4c4;
+}
+dt {
+    margin-left: 19px;
+    margin-top: 19px;
+}
+/* Footer*/
+#pie h2 {
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    padding-top: 4.5px;
+    width: 1440px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    width: 1440;
+    height: 37px;
+    margin-top: 314px;
+    background-color: #005677;
+}
+img {
+    margin-left: 46px;
+    
+}
